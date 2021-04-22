@@ -1,0 +1,32 @@
+body{
+  width:70%;
+  margin:auto;
+  background-color:black;
+}
+h1{
+  font-family: Comic Sans Ms;
+  text-align:center;
+  color:white;
+  font-size: 200%;
+}
+h2{
+  color:white;
+  font-family: Comic Sans Ms, Helvetica, sans-serif;
+  font-size: 180%;
+}
+p.ota{
+  color:white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 120%;
+}
+img{
+  display: block;
+  margin:auto;
+  width: 450px;
+}
+
+a{
+  color:#FFD237;
+  font-size: 150%;
+  font-family: Comic Sans Ms;
+}
